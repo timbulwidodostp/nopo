@@ -23,3 +23,6 @@ F nopo.ado
 F nopo.sthlp
 F nopo_postestimation.sthlp
 F nopo_ex.ado
+f kmatch_svyr.ado
+f kmatch.ado
+f kmatch.sthlp
