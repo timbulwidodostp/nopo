@@ -5,6 +5,8 @@ Nopo (2008) matching decompositions Use nopo With STATA 18
 
 implement Nopo's decomposition Use nopo With STATA 18
 
+https://www.youtube.com/watch?v=cGowM_eNAuM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
